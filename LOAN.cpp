@@ -1,3 +1,9 @@
+/*
+ Program to print qualification for a loan
+ AUTHOR:Carol Wambui Ngacha
+REGISTRATION NUMBER:CT102/G/23184/24
+ DATE :2/oct/2024
+*/
 #include <stdio.h>
 int main ()
 {
