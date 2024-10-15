@@ -1,3 +1,8 @@
+/*
+Name:Carol Wambui Ngacha
+Reg: CT102/G/23184/24
+	*/
+
 #include <stdio.h>
 int main () {
 	int bookID;
