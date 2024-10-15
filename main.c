@@ -1,3 +1,9 @@
+/*
+    Name:Carol Wambui Ngacha
+    Reg:CT102/G/23184/24
+    BBIT
+    */
+
 #include <stdio.h>
 #include <math.h>
 
